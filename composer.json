@@ -3,6 +3,8 @@
     "description": "Installation profile for Drupal 8 camp websites.",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "James Nettik",
