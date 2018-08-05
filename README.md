@@ -1,3 +1,3 @@
-# Encampment Distribution Installer
+# Encampment Distribution
 
-Run `composer create-project --no-interaction jnettik/encampment_project <directory_name>` to setup a new instance.
+@todo: Documentation
